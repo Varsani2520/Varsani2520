@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ranjani Varsani 👋</h1>
-<h3 align="center">Passionate Front-end Developer | India 🇮🇳</h3>
+<h3 align="center">A passionate Full-Stack Developer | India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="img" />
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🌱 Currently learning **React.js**
+- 🌱 Currently working on  **React.js**
 - 💬 Ask me about **React**
 - 📫 Reach me at **varsaniranjani@gmail.com**
 - ⚡ Fun fact: **I'm known for my sense of humor**
