@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.imgur.com/avatar.png" width="200" height="200" alt="Ranjani Varsani avatar" /> Hi , I'm Ranjani Varsani!</h1>
+<h1 align="center"> Hi , I'm Ranjani Varsani!</h1>
 <h3 align="center">A passionate full-stack developer from 🇮🇳 India</h3>
 
 <p align="center">
