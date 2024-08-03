@@ -10,18 +10,6 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Varsani2520&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Varsani2520&theme=radical&hide_border=false)
-# GitHub Stats
-
-<div align="center">
-  <div style="display: flex; gap: 10px; justify-content: center;">
-    <a href="https://github.com/Varsani2520">
-      <img src="https://github-readme-stats.vercel.app/api?username=Varsani2520&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 45%;"/>
-    </a>
-    <a href="https://github.com/Varsani2520">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsani2520&theme=radical&hide_border=false" alt="GitHub Streak" style="max-width: 45%;"/>
-    </a>
-  </div>
-</div>
 
  <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varsani2520&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 <details>	
