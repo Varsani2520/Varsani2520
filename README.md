@@ -10,6 +10,18 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Varsani2520&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Varsani2520&theme=radical&hide_border=false)
+# GitHub Stats
+
+<div align="center">
+  <div style="display: flex; gap: 10px; justify-content: center;">
+    <a href="https://github.com/Varsani2520">
+      <img src="https://github-readme-stats.vercel.app/api?username=Varsani2520&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 45%;"/>
+    </a>
+    <a href="https://github.com/Varsani2520">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsani2520&theme=radical&hide_border=false" alt="GitHub Streak" style="max-width: 45%;"/>
+    </a>
+  </div>
+</div>
 
  <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varsani2520&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 <details>	
@@ -21,9 +33,9 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
+<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />  -->
 </a>
 </div>
 </details>
